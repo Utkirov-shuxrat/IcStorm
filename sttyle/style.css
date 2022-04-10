@@ -109,12 +109,14 @@ width: 100%;
 display: flex;
 justify-content: center;
 padding: 5px 0;
+
 }
 
 .main__cars-text{
     font-size: 14px;
 line-height: 18px;
 color: white;
+font-weight: 400;
 }
 .main__cars-title{
     font-size: 26px;
