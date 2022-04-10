@@ -104,6 +104,11 @@ line-height: 16px;
 color: #FFFFFF;
 background: #4A90E2;
 border-radius: 3px;
+max-width: 65px;
+width: 100%;
+display: flex;
+justify-content: center;
+padding: 5px 0;
 }
 
 .main__cars-text{
@@ -115,5 +120,8 @@ color: white;
     font-size: 26px;
 line-height: 36px;
 color: white;
+}
+body{
+    background: red;
 }
 
